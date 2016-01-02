@@ -1,0 +1,28 @@
+name: singaporestocksvsa.blogspot.com
+favicon: null
+layout_spectrum: 0.18966594547964633
+typography_spectrum: 0.5144051013048738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7625962439924479
+  lightness: 0.9231080871541053
+  saturation: 0.9404040025547147
+  rhythmicContrast: 0.17141666449606419
+purpose: []
